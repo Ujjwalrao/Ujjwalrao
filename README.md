@@ -2,12 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ujjwal%20Rao&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLMs%20%E2%80%A2%20RAG%20%E2%80%A2%20Full%20Stack%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=800&lines=Building+Reliable+AI+Systems+%F0%9F%A4%96;LLMs+%E2%80%A2+RAG+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;Production-Grade+AI+%40+%240%2Fmonth+Infrastructure;7%2B+End-to-End+AI+Products+Shipped)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=800&lines=Building+Reliable+AI+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;7%2B+End-to-End+AI+Products+%40+%240%2Fmonth;Graceful+Degradation+%7C+Interpretable+AI)](https://git.io/typing-svg)
 
 <br/>
 
-![BTech](https://img.shields.io/badge/B.Tech-Electric%20Vehicles-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-![RGPV](https://img.shields.io/badge/RGPV-2022--2026-6D28D9?style=flat-square&logo=university&logoColor=white)
+![BTech](https://img.shields.io/badge/B.Tech-RGPV%202022--2026-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Ratlam%2C%20India-8B5CF6?style=flat-square)
 
 <br/>
@@ -33,20 +32,18 @@
 
 <img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Ujjwalrao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=E5E7EB&ring_color=8B5CF6" />
 
-I am an **AI/ML Engineer** who builds reliable, production-grade AI systems that hold up under real-world constraints — external service failures, free-tier infrastructure limits, and browser-only execution environments.
+I am an **AI/ML Engineer** who builds reliable AI systems that hold up under real-world constraints — external service failures, free-tier infrastructure limits, and browser-only execution environments.
 
-I've independently designed, built, and deployed **7+ end-to-end AI applications** spanning RAG pipelines, computer vision, NLP, recommendation systems, and document intelligence — each running at **$0/month** on free-tier cloud infrastructure.
+I have independently designed, built, and deployed **7+ end-to-end AI applications** spanning RAG pipelines, computer vision, NLP, recommendation systems, and document intelligence — all running at **$0/month** on free-tier cloud infrastructure.
 
-My engineering philosophy centers on **graceful degradation**, **interpretable decision-making**, and **cost-aware system design**. I don't just build AI products — I architect AI systems that stay functional when individual components fail.
-
-Currently pursuing **B.Tech in Electric Vehicles** at RGPV while applying AI/ML expertise developed entirely through independent project work, pushing the boundary of self-directed engineering.
+My engineering approach centers on **graceful degradation**, **interpretable decision-making**, and **cost-aware system design**. Every system I build is designed to stay functional when individual components fail.
 
 <br/>
 
-**🔭 Open To:**
+**Open To:**
 - Full-time AI/ML Engineering roles
-- Backend Engineering / Full Stack AI roles
-- Remote-first product engineering positions
+- Backend Engineering / Full Stack AI positions
+- Remote-first product engineering opportunities
 - Open source AI project collaborations
 
 <br/>
@@ -100,20 +97,20 @@ Currently pursuing **B.Tech in Electric Vehicles** at RGPV while applying AI/ML 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ◈ AI / ML Expertise
+## ◈ AI / ML Focus Areas
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Large Language Models** | ██████████ Expert | Groq, Gemini, prompt engineering, structured output, fallback chains |
-| **Retrieval-Augmented Generation** | ██████████ Expert | FAISS, pgvector, hybrid search, TF-IDF + semantic retrieval |
-| **NLP & Text Processing** | █████████░ Advanced | spaCy, TF-IDF, regex-based extraction, semantic search |
-| **Classical Machine Learning** | █████████░ Advanced | Scikit-learn, XGBoost, ensemble methods, feature engineering |
-| **Deep Learning** | ████████░░ Proficient | TensorFlow, LSTM, time series forecasting with Prophet |
-| **Computer Vision** | ████████░░ Proficient | TensorFlow.js, browser-native CV, lane detection pipelines |
-| **MLOps & Deployment** | ████████░░ Proficient | Docker, Render, Vercel, GitHub Actions, free-tier optimization |
-| **Interpretable AI** | ██████████ Expert | Rule-based scoring, deterministic fallbacks, explainable outputs |
+| Domain | Tools & Techniques |
+|--------|--------------------|
+| **LLM Applications** | Groq, Gemini, prompt engineering, structured output, fallback chains |
+| **Retrieval-Augmented Generation** | FAISS, pgvector, hybrid search, TF-IDF + semantic retrieval |
+| **NLP & Text Processing** | spaCy, TF-IDF, regex-based extraction, semantic search |
+| **Classical Machine Learning** | Scikit-learn, XGBoost, ensemble methods, feature engineering |
+| **Deep Learning** | TensorFlow, LSTM, time series forecasting with Prophet |
+| **Computer Vision** | TensorFlow.js, browser-native CV, lane detection pipelines |
+| **MLOps & Deployment** | Docker, Render, Vercel, GitHub Actions, free-tier optimization |
+| **Interpretable AI** | Rule-based scoring, deterministic fallbacks, explainable decision-making |
 
 </div>
 
@@ -127,19 +124,16 @@ Currently pursuing **B.Tech in Electric Vehicles** at RGPV while applying AI/ML 
 <summary><b>🚀 CareerAI — AI-Powered Career Copilot Platform</b></summary>
 <br/>
 
-> An end-to-end AI career platform that combines semantic job matching, ATS-optimized resume analysis, and salary negotiation intelligence — designed for reliability under real-world API constraints.
+> An end-to-end AI career platform combining semantic job matching, ATS resume analysis, and salary negotiation intelligence — engineered to remain functional when external APIs are unavailable.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, FastAPI, PostgreSQL, pgvector, LLMs, Groq |
-| **Scale** | Full production deployment on free-tier infrastructure |
-| **Performance** | Hybrid keyword + semantic search; graceful degradation when embedding APIs are unavailable |
-| **Security** | Backend-enforced numeric constraints; LLM handles language only |
-| **Impact** | Deterministic ATS scorer replaced LLM inference — reducing latency and improving explainability |
-| **Repository** | [github.com/Ujjwalrao/CareerAI](https://github.com/Ujjwalrao/CareerAI) |
+| | |
+|--|--|
+| **Tech Stack** | Python, FastAPI, PostgreSQL, pgvector, Groq LLM |
+| **Key Engineering Decision** | Hybrid keyword + pgvector semantic search — falls back to keyword-only when embedding APIs are down |
+| **Key Engineering Decision** | Deterministic rule-based ATS scorer replaced an LLM inference call — faster, cheaper, explainable |
+| **Key Engineering Decision** | Backend enforces all salary arithmetic; LLM handles natural language only |
 | **Live Demo** | [career-ai-nu-roan.vercel.app](https://career-ai-nu-roan.vercel.app/) |
-
-Designed a hybrid job-matching pipeline combining deterministic keyword scoring with pgvector semantic retrieval, allowing meaningful matching even when embedding services are unavailable. Implemented a deterministic regex-based validation layer alongside LLM-based resume extraction to improve reliability for structured fields without additional API usage. Salary negotiation logic is split between LLM-generated conversational tone and backend-enforced numeric constraints — the backend clamps and computes actual counter-offers while the LLM handles only natural language generation.
+| **Repository** | [github.com/Ujjwalrao/CareerAI](https://github.com/Ujjwalrao/CareerAI) |
 
 </details>
 
@@ -147,39 +141,32 @@ Designed a hybrid job-matching pipeline combining deterministic keyword scoring 
 <summary><b>📄 NeuroDocs AI — AI-Powered Document Intelligence Platform</b></summary>
 <br/>
 
-> A production-grade document intelligence platform built for offline-capable RAG, multi-model classification, and interpretable document analysis — engineered to operate without dependency on external embedding APIs.
+> An offline-capable document intelligence platform for RAG-based Q&A, multi-model classification, and interpretable document analysis — no external embedding API required.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | FastAPI, Flask, FAISS, OCR, RAG, TF-IDF |
-| **Scale** | Offline-capable; no external embedding dependency |
-| **Performance** | TF-IDF + FAISS pipeline; modular embedding layer for future upgrades |
-| **Security** | Dual-model classification exposes model agreement as confidence signal |
-| **Impact** | Logistic Regression + Random Forest ensemble eliminates single-model opacity |
-| **Repository** | [github.com/Ujjwalrao/-neurodocs-ai](https://github.com/Ujjwalrao/-neurodocs-ai) |
+| | |
+|--|--|
+| **Tech Stack** | FastAPI, Flask, FAISS, OCR, TF-IDF, Scikit-learn |
+| **Key Engineering Decision** | TF-IDF + FAISS RAG pipeline operates fully offline — embedding module isolated for easy future upgrades |
+| **Key Engineering Decision** | Dual-model classification (Logistic Regression + Random Forest) exposes model agreement as a confidence signal |
 | **Live Demo** | [neurodocs-ai.vercel.app](https://neurodocs-ai.vercel.app/) |
-
-Designed an offline-capable RAG pipeline using TF-IDF embeddings and FAISS, keeping embedding generation isolated within a dedicated module to simplify future upgrades. Implemented dual-model document classification (Logistic Regression + Random Forest) that exposes model agreement as an additional confidence signal — returning interpretable probability distributions rather than a single opaque prediction.
+| **Repository** | [github.com/Ujjwalrao/-neurodocs-ai](https://github.com/Ujjwalrao/-neurodocs-ai) |
 
 </details>
 
 <details>
-<summary><b>🛡️ Detectron AI — Unified AI Detection Platform</b></summary>
+<summary><b>🛡️ Detectron AI — Browser-Native AI Detection Platform</b></summary>
 <br/>
 
-> A browser-native AI experimentation platform demonstrating that production ML systems can be deployed entirely client-side — no Python backend, no server inference costs, no latency from round-trips.
+> A suite of ML detection systems running entirely in the browser — no Python backend, no server round-trips, no infrastructure cost.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | JavaScript, TensorFlow.js, Computer Vision, Naive Bayes |
-| **Scale** | 100% browser-native execution; zero backend dependencies |
-| **Performance** | Lightweight classical CV pipeline avoids deep-learning overhead |
-| **Security** | All inference client-side; no data transmission to backend |
-| **Impact** | Multinomial Naive Bayes reimplemented from scratch in JS for browser spam detection |
-| **Repository** | [github.com/Ujjwalrao/Detectron-AI](https://github.com/Ujjwalrao/Detectron-AI) |
+| | |
+|--|--|
+| **Tech Stack** | JavaScript, TensorFlow.js, Computer Vision |
+| **Key Engineering Decision** | Multinomial Naive Bayes reimplemented from scratch in JS — enables browser-only spam detection without a backend |
+| **Key Engineering Decision** | Classical CV pipeline for lane detection chosen over deep learning to meet client-side execution constraints |
+| **Key Engineering Decision** | Rule-based scoring selected for fraud and emotion analysis where interpretability outweighed marginal accuracy gains |
 | **Live Demo** | [detectron-ai.vercel.app](https://detectron-ai.vercel.app/) |
-
-Reimplemented Multinomial Naive Bayes from scratch in JavaScript, enabling browser-only spam detection without requiring a Python backend. Evaluated trained ML models alongside interpretable rule-based approaches for fraud and emotion analysis, selecting deterministic scoring where transparent decision-making was more important than marginal predictive gains. Implemented a lightweight classical computer vision pipeline for browser-based lane detection, avoiding deep-learning dependencies to satisfy client-side execution constraints.
+| **Repository** | [github.com/Ujjwalrao/Detectron-AI](https://github.com/Ujjwalrao/Detectron-AI) |
 
 </details>
 
@@ -187,19 +174,16 @@ Reimplemented Multinomial Naive Bayes from scratch in JavaScript, enabling brows
 <summary><b>💰 FinIQ — AI-Powered Personal Finance Platform</b></summary>
 <br/>
 
-> A production AI finance platform that separates deterministic financial calculations from predictive AI — implementing dependency fallback chains to ensure core functionality remains available even when optional ML components fail.
+> A personal finance platform with 20+ calculators and AI-driven forecasting — built with explicit fallback chains so core features remain available when ML components are unavailable.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python, XGBoost, TensorFlow, Prophet, FastAPI |
-| **Scale** | Multi-model ensemble with fallback chains; synthetic dataset validation |
-| **Performance** | Prophet → LSTM fallback; spaCy → rule-based parsing fallback |
-| **Security** | Deterministic financial calculations isolated from probabilistic AI |
-| **Impact** | Reproducible evaluation metrics on synthetic datasets with explicit real-world performance caveats |
-| **Repository** | [github.com/Ujjwalrao/FinIQ-AI](https://github.com/Ujjwalrao/FinIQ-AI) |
+| | |
+|--|--|
+| **Tech Stack** | Python, XGBoost, TensorFlow, Prophet, FastAPI |
+| **Key Engineering Decision** | Prophet → LSTM fallback chain; spaCy → rule-based parsing fallback — core functionality never blocked by optional ML |
+| **Key Engineering Decision** | Deterministic financial calculations fully separated from probabilistic AI modules |
+| **Key Engineering Decision** | All ML models evaluated on statistically calibrated synthetic data with explicit real-world performance caveats |
 | **Live Demo** | [fin-iq-ai-pi.vercel.app](https://fin-iq-ai-pi.vercel.app/) |
-
-Trained and evaluated multiple finance ML models on statistically calibrated synthetic datasets, documenting reproducible evaluation metrics while explicitly distinguishing experimental evaluation from real-world performance. Separated deterministic financial calculations from predictive AI while implementing dependency fallback chains (Prophet → LSTM, spaCy → rule-based parsing), ensuring core functionality remains available even when optional ML components are unavailable.
+| **Repository** | [github.com/Ujjwalrao/FinIQ-AI](https://github.com/Ujjwalrao/FinIQ-AI) |
 
 </details>
 
@@ -209,18 +193,15 @@ Trained and evaluated multiple finance ML models on statistically calibrated syn
 
 ## ◈ Experience
 
-<div>
+### Independent AI Engineer & Technical Content Creator
+**Self-Initiated** · `Jan 2026 – Present`
 
-### Independent AI Project Builder & Content Creator
-**Self-Initiated** · `2026 – Present`
+Built and deployed multiple end-to-end AI systems spanning NLP, RAG, and Computer Vision. Documented the build process for each publicly on LinkedIn ("7 Days, 7 AI Projects"), translating engineering trade-offs into accessible technical writing.
 
-Independently designed, built, and deployed **7+ production-grade AI systems** — each documented through a public LinkedIn series *"7 Days, 7 AI Projects"* that translates complex ML/AI engineering into accessible technical content.
-
-- Architected and shipped end-to-end AI systems spanning RAG, recommendation engines, computer vision, and document intelligence
-- Managed the complete product lifecycle independently: system design → model development → API deployment → infrastructure optimization
-- Achieved **$0/month** infrastructure cost across all live deployments through strategic use of free-tier cloud services
-- Communicated engineering trade-offs and technical architecture decisions to a public professional audience on LinkedIn
-- Demonstrated applied AI/ML expertise fully outside a formal computer science curriculum
+- Shipped **7 AI systems in 7 days** — each live, deployed, and publicly documented
+- Maintained **$0/month infrastructure cost** across all deployments using free-tier cloud services
+- Designed fallback-first architectures where every system degrades gracefully under component failure
+- Published structured technical write-ups for each project reaching a professional LinkedIn audience
 
 ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=flat-square&logo=fastapi&logoColor=white)
@@ -231,53 +212,23 @@ Independently designed, built, and deployed **7+ production-grade AI systems** �
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-8B5CF6?style=flat-square&logo=tensorflow&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-7C3AED?style=flat-square&logo=vercel&logoColor=white)
 
-</div>
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ◈ Achievements
+## ◈ By The Numbers
 
 <div align="center">
 
-| 🏆 Recognition | Details |
-|----------------|---------|
-| **7 Days, 7 AI Projects** | Shipped 7 production-grade AI systems in 7 days — documented publicly on LinkedIn |
-| **$0/Month AI Infrastructure** | All 7 deployed AI products running at zero infrastructure cost on free-tier cloud |
-| **Self-Directed AI Engineer** | Built FAANG-quality AI systems with no formal CS degree — pure applied engineering |
-| **Public Technical Author** | Translated complex ML/AI engineering into accessible content for professional audience |
-| **Full Stack AI Deployment** | End-to-end ownership: architecture → model → API → deployment → monitoring |
-| **Hybrid RAG Architecture** | Designed offline-capable RAG pipeline with graceful fallback when embedding APIs fail |
-| **Browser-Native ML** | Deployed Naive Bayes and CV pipelines entirely in-browser with zero backend dependency |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ◈ Certifications
-
-<div align="center">
-
-**AWS**
-
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-
-**Oracle**
-
-[![Oracle](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/certification)
-
-**NPTEL**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-0080FF?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL](https://img.shields.io/badge/NPTEL-Deep%20Learning-0080FF?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
-
-**Cisco**
-
-[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+| Metric | Count |
+|--------|-------|
+| AI Systems Built & Deployed | **7+** |
+| Live Products on Vercel / Render | **7** |
+| Monthly Infrastructure Cost | **$0** |
+| AI Domains Covered | **5+** — NLP, RAG, CV, Finance AI, Document AI |
+| Finance Calculators (FinIQ) | **20+** |
+| ML Models Trained & Evaluated | **10+** |
+| LinkedIn Technical Posts | **7+** |
 
 </div>
 
@@ -304,24 +255,21 @@ Independently designed, built, and deployed **7+ production-grade AI systems** �
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujjwalrao&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalrao&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujjwalrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=E5E7EB&ring_color=8B5CF6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalrao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ujjwalrao&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwalrao&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=E5E7EB&currStreakNum=ffffff&sideNums=ffffff&dates=A0AEC0" width="70%"/>
 
 </div>
-## ◈ GitHub Trophies
 
-<div align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ujjwalrao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
 ## ◈ Contribution Activity
 
 <div align="center">
@@ -339,12 +287,9 @@ Independently designed, built, and deployed **7+ production-grade AI systems** �
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ujjwalrao/Ujjwalrao/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ujjwalrao/Ujjwalrao/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Ujjwalrao/Ujjwalrao/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwalrao/Ujjwalrao/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwalrao/Ujjwalrao/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ujjwalrao/Ujjwalrao/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -363,7 +308,7 @@ current_focus:
     - Distributed systems design for AI-heavy workloads
 
   building:
-    - Production-grade RAG systems with graceful degradation
+    - RAG systems with graceful degradation under API failures
     - Browser-native ML inference pipelines
     - Cost-zero AI products on free-tier infrastructure
 
