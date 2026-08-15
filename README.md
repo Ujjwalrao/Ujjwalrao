@@ -304,33 +304,24 @@ Independently designed, built, and deployed **7+ production-grade AI systems** �
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujjwalrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=E5E7EB&ring_color=8B5CF6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalrao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ujjwalrao&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalrao&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwalrao&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=E5E7EB&currStreakNum=ffffff&sideNums=ffffff&dates=A0AEC0" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Ujjwalrao&theme=tokyonight"/>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## ◈ GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ujjwalrao&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ujjwalrao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## ◈ Contribution Activity
 
 <div align="center">
